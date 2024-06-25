@@ -1,0 +1,53 @@
+{
+  "data": {
+    "carModelList": {
+      "items": [
+        {
+          "carImage": {
+            "_authorUrl": "http://localhost:4502/content/dam/nexa/com/in/en/images/cars/grand-vitara/Grand%20Vitara.webp"
+          },
+          "carName": "Grand Vitara",
+          "bodyType": "SUV",
+          "carDescription": "Create. Inspire",
+          "altText": "Grand Vitara",
+          "exShowroomPrice": 1099000,
+          "fuelOptions": ["petrol", "scng"],
+          "technology": ["ieh", "smartHybrid"],
+          "additionalSpecifications": null,
+          "carTagName": ["msil:nexa/grand-vitara"],
+          "defaultVariantId": "GVR4EZ2"
+        },
+        {
+          "carImage": {
+            "_authorUrl": "http://localhost:4502/content/dam/nexa/com/in/en/images/cars/invicto/Invicto.webp"
+          },
+          "carName": "Invicto",
+          "bodyType": "SUV",
+          "carDescription": "Created to Inspire the Extraordinary",
+          "altText": "Invicto",
+          "exShowroomPrice": 2521000,
+          "fuelOptions": ["petrol", "scng"],
+          "technology": ["smartHybrid"],
+          "additionalSpecifications": null,
+          "carTagName": ["msil:nexa/invicto"],
+          "defaultVariantId": "INAHAZ200"
+        },
+        {
+          "carImage": {
+            "_authorUrl": "http://localhost:4502/content/dam/nexa/com/in/en/images/cars/jimny/Jimny.webp"
+          },
+          "carName": "Jimny",
+          "bodyType": "Hatchback",
+          "carDescription": "Created For Purity of Function",
+          "altText": "Jimny",
+          "exShowroomPrice": 1274000,
+          "fuelOptions": ["petrol"],
+          "technology": null,
+          "additionalSpecifications": ["allGrip"],
+          "carTagName": ["msil:nexa/jimny"],
+          "defaultVariantId": "JMR4CZ2"
+        }
+      ]
+    }
+  }
+}
